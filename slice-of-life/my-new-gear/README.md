@@ -1,6 +1,6 @@
 # slice of life (日常)
 
-## My New Gear
+## [My New Gear](./my-new-gear/)
 
 ### 2024-minis-forum
 
