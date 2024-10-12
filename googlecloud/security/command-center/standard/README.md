@@ -1,5 +1,6 @@
 # Security Command Center Standard
 
+## 2024-sccs
 
 <details>
 <summary>2024-sccs-01.png</summary>
