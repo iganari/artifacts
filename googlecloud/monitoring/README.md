@@ -8,4 +8,4 @@
 ## metrics-explorer
 
 - 2024-get-metrics-by-program
-  - https://github.com/iganari/zenn-public/issues/81
+  - https://zenn.dev/iganari/articles/gcp--monitoring--metrics-explorer--get-metrics
